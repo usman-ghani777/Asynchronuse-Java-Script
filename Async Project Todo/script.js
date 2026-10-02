@@ -318,8 +318,4 @@ async function updateTodo(id, newValue) {
 }
 
 
-// -------------------------
-// LOAD TODOS
-// -------------------------
-
 getTodos();
